@@ -90,6 +90,6 @@
     <platform name="android">
         <resource-file src="google-services.json" target="google-services.json" />
     </platform>
-	<plugin name="cordova-plugin-admob-free" spec="^0.18.0" />
+	<plugin name="cordova-plugin-admob-free" spec="0.22.0" />
 	
 </widget>
