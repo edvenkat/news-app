@@ -95,7 +95,7 @@
     <platform name="android">
         <resource-file src="google-services.json" target="google-services.json" />
     </platform>
-	<plugin name="cordova-admob-sdk" spec="~0.13.1"> 
+	<plugin name="cordova-admob-sdk" spec="~0.20.2"> 
     		<variable  name="PLAY_SERVICES_VERSION" value="11.6.0" />
 	</plugin>
    <plugin name="cordova-plugin-admob-free" spec="0.22.0">
