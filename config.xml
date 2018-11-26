@@ -87,7 +87,7 @@
      <!--<plugin name="phonegap-plugin-push" spec="2.2.3" /> -->  
 	
 	 <plugin name="phonegap-plugin-push" spec="~2.1.2">
-        <variable name="FCM_VERSION" value="11.0.1" />
+        <variable name="FCM_VERSION" value="11.6.0" />
     </plugin>
 	
 	 <!-- <param name="senderID" value="170479821566" />
