@@ -99,7 +99,7 @@
         <param name="FCM_VERSION" value="17.1.0" />
     </plugin> -->
     <platform name="android">
-        <resource-file src="google-services.json" target="google-services.json" />
+        <resource-file src="google-services.json" target="app/google-services.json" />
     </platform>
 	<!-- <plugin name="cordova-admob-sdk" spec="~0.20.2"> 
     		<variable  name="PLAY_SERVICES_VERSION" value="11.6.0" />
