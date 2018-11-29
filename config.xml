@@ -118,7 +118,7 @@
 	</plugin>
 	<plugin name="phonegap-plugin-push" spec="^2.1.3">
      	    <param name="SENDER_ID" value="xxxxxxxx" />
-       	    <param name="FCM_VERSION" value="11.6.2" />
+       	    <param name="FCM_VERSION" value="11.0.4" />
         </plugin>
 	
 	
